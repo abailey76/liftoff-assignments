@@ -7,7 +7,7 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+Fitness Finder: A location based search to find fitness resources and fitness-centric people/events near you.
 ### Features
 Include Features here
 ### Technologies
@@ -15,4 +15,4 @@ Include Technologies here
 ### What I'll Have to Learn
 Include what you will need to learn here
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/xZxyLUl0/liftoff-group-project
